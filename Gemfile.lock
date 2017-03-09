@@ -3,6 +3,8 @@ GEM
   specs:
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
+    clean-jekyll-theme (0.8.1)
+      jekyll (~> 3.3)
     colorator (1.1.0)
     ffi (1.9.18)
     ffi (1.9.18-x64-mingw32)
@@ -47,6 +49,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  clean-jekyll-theme
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
